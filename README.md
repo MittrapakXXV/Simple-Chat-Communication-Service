@@ -7,4 +7,5 @@ Modify API key with your own url
 
 ### How to use
 Run ChatClient.jar (require atleast JDK 22 https://www.oracle.com/java/technologies/javase/jdk22-archive-downloads.html) 
+
 Run server_run.js
