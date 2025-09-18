@@ -1,9 +1,39 @@
 # Simple-Chat-Communication-Service
 A very simple communication project made with Java Swing GUI and Node.js
 
-## Setup
-Modify API key with your own url
-(I recommend using IPV4 Wifi Address for local running)
+
+# Requirement
+  Open your terminal in the project folder and download these
+  
+  Express
+    
+  ```bash
+  npm install express
+  ```
+
+  JSON Web Token
+    
+  ```bash
+  npm install jsonwebtoken
+  ```
+
+  Properties Reader
+    
+  ```bash
+  npm install properties-reader
+  ```
+
+  dotenv
+    
+  ```bash
+  npm install dotenv
+  ```
+
+
+## Server Setup
+Modify API key in config.properties
+(e.g. IPV4 address and port)
+
 
 ### How to use
 
